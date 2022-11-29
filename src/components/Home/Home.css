@@ -1,0 +1,13 @@
+.Home {
+    position: absolute;
+    top: 150px;
+    left: 345px;
+    padding: 5px;
+    /* border: 1px solid #000; */
+}
+
+.home {
+    display: flex;
+    align-items: center;
+}
+ 

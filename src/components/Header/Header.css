@@ -1,0 +1,145 @@
+.Header {
+width: 306px;
+/* height: 1003px; */
+padding-left: 28px;
+padding-top: 36px;
+padding-right: 36px;
+background: #FFFFFF;
+box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+/* padding-bottom: 320px; */
+margin-right: 19px;
+}
+
+ 
+
+.heading {
+padding: 0;
+margin: 0;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+
+.heading_hamburger {
+display: flex;
+align-items: center;
+padding-bottom: 53px;
+}
+
+.gruhlar_wrapper {
+padding: 4px;
+border-radius: 4px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+cursor: pointer;
+margin-bottom: 20px;
+}
+
+.gruhlar_wrapper:hover {
+    background-color: #5932EA;
+    transition: 0.3s;
+}
+.gruhlar_wrapper:active {
+    background-color: #4516ee;
+    transition: 0.3s;
+}
+.group_wrapper {
+display: flex;
+align-items: center;
+}
+.headings {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.01em;
+color: #9197B3;
+padding-left: 14px;
+}
+
+
+/* heading right */
+.father_header {
+    display: flex;
+}
+
+.headin_right {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #000000;
+}
+
+.header_images {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.searching_input {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.01em;
+color: #B5B7C0;
+background: #FFFFFF;
+box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+border-radius: 12px;
+padding: 10px 100px 7px 42px;
+border:none;
+}
+
+.header_right_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1150px;
+    height: 75px;
+}
+
+.deader_images-icon {
+    cursor: pointer;
+}
+
+.teacher {
+display: flex;
+align-items: center;
+margin-top: 240px;
+}
+.teacher_wrapper {
+margin-left: 12px;
+}
+
+.teacher_name {
+padding: 0;
+margin: 0;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+
+.teacher_job {
+margin: 0;
+padding: 0;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.01em;
+color: #757575;
+}
